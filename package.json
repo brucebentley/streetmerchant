@@ -25,15 +25,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jef/streetmerchant.git"
+    "url": "git+https://github.com/brucebentley/streetmerchant.git"
   },
   "keywords": [],
-  "author": "jef",
+  "author": "Bruce Bentley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jef/streetmerchant/issues"
+    "url": "https://github.com/brucebentley/streetmerchant/issues"
   },
-  "homepage": "https://github.com/jef/streetmerchant#readme",
+  "homepage": "https://github.com/brucebentley/streetmerchant#readme",
   "dependencies": {
     "@doridian/puppeteer-page-proxy": "^1.2.11",
     "@jef/pushbullet": "^2.4.3",
