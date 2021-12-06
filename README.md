@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://jef.buzz/streetmerchant"><img src="https://raw.githubusercontent.com/jef/streetmerchant/main/docs/assets/images/streetmerchant-banner.png" /></a>
+  <a href="https://jef.buzz/streetmerchant"><img src="https://raw.githubusercontent.com/brucebentley/streetmerchant/main/docs/assets/images/streetmerchant-banner.png" /></a>
 </p>
 <p align="center">
   <strong>The world's easiest, most powerful stock checker</strong>
 </p>
 <p align="center">
-  <a href="https://github.com/jef/streetmerchant/actions/workflows/ci.yaml"><img src="https://img.shields.io/github/workflow/status/jef/streetmerchant/ci?color=24292e&label=Continuous%20Integration&logo=github&logoColor=ffffff&style=flat-square" /></a>
+  <a href="https://github.com/brucebentley/streetmerchant/actions/workflows/ci.yaml"><img src="https://img.shields.io/github/workflow/status/brucebentley/streetmerchant/ci?color=24292e&label=Continuous%20Integration&logo=github&logoColor=ffffff&style=flat-square" /></a>
   <a href="https://discord.gg/gbVY4vB9JF"><img src="https://img.shields.io/discord/773913070665859073.svg?color=24292e&label=%20&logo=discord&logoColor=ffffff&style=flat-square" /></a>
 </p>
 <p align="center">
@@ -25,7 +25,7 @@ First and foremost, this service _will not_ automatically buy for you.
 streetmerchant runs on Node.js:
 
 ```shell
-git clone https://github.com/jef/streetmerchant.git
+git clone https://github.com/brucebentley/streetmerchant.git
 cd streetmerchant && npm i && npm run start
 ```
 
